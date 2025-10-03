@@ -1,2 +1,4 @@
-# dio-sistemabancario-python-v1
-Desafio DIO - Criando um sistema bancário em Python - v1
+# dio-sistemabancario-python
+Desafio DIO - Criando um sistema bancário em Python
+Desafio DIO - Criando um sistema bancário em Python usando funções
+
